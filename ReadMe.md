@@ -1,0 +1,3 @@
+这是写在ali前的，没有写配置中心。
+
+ali的那个项目名为qkCloudAliStudyF
